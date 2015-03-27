@@ -16,3 +16,5 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 gem "bootstrap-sass", require: false
 gem 'jquery-middleman', :require => false
 gem 'jquery-ui-middleman', :require => false
+
+gem 'builder'
